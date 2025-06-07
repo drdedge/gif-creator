@@ -1,0 +1,9 @@
+# Core requirements for video processing and GIF creation
+opencv-python
+imageio
+imageio-ffmpeg
+numpy
+
+# Optional: For better GIF optimization (recommended)
+Pillow
+click
